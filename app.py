@@ -39,5 +39,4 @@ def index():
 def send_foo(filename):
      return send_from_directory('/usr/local/ec_pyug/static/', filename)
 
-
 app.run(debug=True)
