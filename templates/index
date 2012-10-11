@@ -1,0 +1,9 @@
+<html>
+  <head>
+    <title>The EC Python User Group</title>
+    <link href="http://alpha.calc.petalphile.com/markdown.css" rel="stylesheet"></link>
+  </head>
+  <body>
+    {{ content }}
+  </body>
+</html>
